@@ -4,25 +4,26 @@
 ## 📂 Folder Structure
 
 ```
-python-list-mini-projects/
-│
-├── README.md
-│
-├── marks_processing/
-│   ├── list_utils.py
-│   └── test_list_utils.py
-│
-├── city_management/
-│   ├── list_utils.py
-│   └── test_list_utils.py
-│
-├── copy_investigation/
-│   ├── list_utils.py
-│   └── test_list_utils3.py
-│
-└── sales_analyzer/
-    ├── list_utils4.py
-    └── test_list_utils4.py
+    python-list-mini-projects/
+    │
+    ├── README.md
+    │
+    ├── marks_processing/
+    │   ├── list_utils.py
+    │   └── test_list_utils.py
+    │
+    ├── city_management/
+    │   ├── list_utils.py
+    │   └── test_list_utils.py
+    │
+    ├── copy_investigation/
+    │   ├── list_utils.py
+    │   └── test_list_utils3.py
+    │
+    └── sales_analyzer/
+        ├── list_utils4.py
+        └── test_list_utils4.py
+
 ```
 
 ---
