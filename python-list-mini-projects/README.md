@@ -26,9 +26,8 @@
 
 ```
 
----
 
-# ✅ Why This Structure Is Good
+✅ Why This Structure Is Good
 
 * 📌 Each project is clearly separated
 * 📌 Easy to navigate
